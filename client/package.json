@@ -1,0 +1,9 @@
+{
+  "name": "viceversa-web3d-technical-test-client",
+  "scripts": {
+    "start": "http-server . -p 8081 -o -c-1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
+}
