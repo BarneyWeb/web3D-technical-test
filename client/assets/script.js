@@ -19,5 +19,4 @@ for (const btn of btns) btn.addEventListener('click', event => {
     type: "viceversa.viewer.setColor",
     value: color
   }, '*')
-
 })
